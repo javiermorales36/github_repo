@@ -1,2 +1,2 @@
-# personal_repo
+# public_repo
  repositorio personal
